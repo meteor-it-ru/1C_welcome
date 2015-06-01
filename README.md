@@ -6,6 +6,7 @@ Moscow, RUS
 
 * Meteor-it - SaaS service 1C, 1C-development - [www.meteor-it.ru](https://www.meteor-it.ru) - Аренда 1С в облаке: Управление торговлей, Бухгалтерия, Управление небольшой фирмой
 * Concept Logic - e-commerce opencart CMS development - [conceptlogic.ru](http://conceptlogic.ru) - Разработка интернет-магазинов на беза CMS Opencart
+* Concept Logic - e-commerce opencart CMS development - [conceptlogic.ru](http://conceptlogic.ru) - Разработка интернет-магазинов на базе CMS Opencart
 
 
 Saint-Petersburg, RUS
